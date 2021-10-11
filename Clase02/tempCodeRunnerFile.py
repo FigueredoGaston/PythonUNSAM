@@ -1,0 +1,1 @@
+print(f"Datos no válidos en la línea {count} del archivo.")
